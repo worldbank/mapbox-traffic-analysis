@@ -1,0 +1,5 @@
+ city:
+   city_name:
+    path_network: '/home/sol/Documents/wb/accessibility/data/networks/'
+    speeds_file: './data/speeds/file.csv.gz'
+    north_south_east_west: [-24.532677968880527, -25.155509992448312, -65.24126671165882, -65.75341833114182]
